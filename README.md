@@ -19,7 +19,8 @@ Buzzer intended for gamify the lectures at the UT.
 **Built With:**
 
 - SolidWorks
-- 
+- Circuito.io
+- Arduino IDE
 
 ## Authors:
 
