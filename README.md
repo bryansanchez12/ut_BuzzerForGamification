@@ -17,11 +17,14 @@ Buzzer intended for gamify the lectures at the UT.
 - Lipo Battery
 
 **Built With:**
-
 - C++
 - SolidWorks
 - Circuito.io
 - Arduino IDE
+
+**Assembly:**
+
+<img src="Assembly.jpeg"  width="350" height="300">
 
 ## Authors:
 
